@@ -1,12 +1,8 @@
-# 💸💸 Dribble Finance App
+# Finance App
 
 > A finance app that was built based on the layout: https://dribbble.com/shots/14210557-Finance-Mobile-Application-UX-UI-DesignLayout 
 
-<p align="left">	
-   <a href="https://www.linkedin.com/in/gabriel-victor-369a0917a/">
-      <img alt="Gabriel Victor" src="https://img.shields.io/badge/-GabrielVictor-283E4A?style=flat&logo=Linkedin&logoColor=white" />
-   </a>
-</p>
+
 
 
 # 📲 Overview
